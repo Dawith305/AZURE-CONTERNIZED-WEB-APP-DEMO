@@ -1,4 +1,4 @@
-# vue-particles
+# Containerized Wep App Azure Demo
 
 > A Vue.js project
 
