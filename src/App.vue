@@ -1,7 +1,7 @@
 <template>
     <div id="app">
       <div id="main" class="has-text-centered">
-        <h1 class="title is-1">Greetings :)</h1>
+        <h1 class="title is-1">Greetings :) Fellow Devs</h1>
         <h1 class="subtitle is-5 mt-4">Here is a demo of Containerized Web App using Azure App Service</h1>
       </div>
       <vue-particles
